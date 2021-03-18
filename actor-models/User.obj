@@ -1,6 +1,6 @@
 # Blender v2.81 (sub 16) OBJ File: 'ActorModels.blend'
 # www.blender.org
-mtllib User.mtl
+mtllib user.mtl
 o User_Curve.001
 v -0.080396 -1.669275 7.303845
 v 0.407429 -1.669275 7.336631

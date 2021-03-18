@@ -1,6 +1,6 @@
 # Blender v2.81 (sub 16) OBJ File: 'ActorModels.blend'
 # www.blender.org
-mtllib Fingerprint.mtl
+mtllib fingerprint.mtl
 o Curve.001_Curve.003
 v 3.705101 -0.203183 12.044212
 v 3.692768 -0.203183 12.044469

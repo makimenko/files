@@ -1,6 +1,6 @@
 # Blender v2.81 (sub 16) OBJ File: 'ActorModels.blend'
 # www.blender.org
-mtllib Protection.mtl
+mtllib protection.mtl
 o Curve.002_Curve.005
 v -0.025693 -0.000001 13.428657
 v -5.281494 -0.000000 11.093238
